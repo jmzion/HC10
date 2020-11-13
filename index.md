@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+## Willaimsburg
 
-You can use the [editor on GitHub](https://github.com/jmzion/HC8/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+The neighborhood that I worked on for CSCI 127 is **Williamsburg** in Brooklyn, NY. 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
