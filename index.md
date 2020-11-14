@@ -1,4 +1,4 @@
-## Willaimsburg
+## Williamsburg
 
 The neighborhood that I worked on for CSCI 127 is **Williamsburg** in Brooklyn, NY. 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
