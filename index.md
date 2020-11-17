@@ -28,6 +28,7 @@ Using pyhton, I was able to analyze the data of all the Airbnbs in NYC and creat
 ![plot3](plot image.png) 
 ###### Figure 4.
 > Figure 4 shows the average price of listings in all of the boroughs. Brooklyn is the second most expensive.  
+  
 All of these data shows that Brooklyn is an expensive place to book an Airbnb yet is popular, especially Williamsburg. Most guests stay for around 6 nights at the listings and the guest leave many reviews. While some listings are not as popular as others, many recieve many guests and reviews monthly.
 
 ### HC9
