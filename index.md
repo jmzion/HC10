@@ -5,7 +5,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### HC6
 
-![HC6][williamsburg2.png]
+![HC6][https://github.com/jmzion/HC10/blob/gh-pages/williamsburg2.png] 
+
 This image is a map of Brooklyn with Williamsburg highlighted.
 
 <dl>
