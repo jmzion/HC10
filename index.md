@@ -1,13 +1,19 @@
 ## Williamsburg
 
 The neighborhood that I worked on for CSCI 127 is **Williamsburg** in Brooklyn, NY. 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### HC6
 
-![HC6][https://github.com/jmzion/HC10/blob/gh-pages/williamsburg2.png] 
+![alt text][williamsburg2.png "Logo Title Text 1"] 
 
-This image is a map of Brooklyn with Williamsburg highlighted.
+This image is a map of Brooklyn with Williamsburg highlighted.  
+
+### HC2
+Williamsburg is neighborhood in Brooklyn with the zip codes 11211 and 11206. The population of this neighborhood is 75% white. The majority of people living in Williamsburg are 18 to 35 years old (36%) and the second highest demographic is 35 to 64 years old (31%). Most housing units are rented and only 16% is owned. The median house value is 1 million dollars.
+
+## HC3
+For HC3, my partner and I analyzed the rankings from multiple websites for our neighborhoods. Williamsburg is one of the best places to live in New York City, according to Niche and other rankings. The neighborhood is good for young professionals and families due to its above average public education and the dense urban feel. Although it is not considered the safest, it has many restaurants, shops, and parks for the community. Williamsburg was rated A+ for its nightlife and is very close to the city, making it a hotspot for travelers.
 
 <dl>
 <iframe src="AirbnbWilliamsburg.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
