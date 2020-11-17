@@ -6,7 +6,7 @@ The neighborhood that I worked on for CSCI 127 is **Williamsburg** in Brooklyn, 
 ### HC6
 ![alt text](williamsburg2.png)
 ###### Figure 1.
-Figure 1 is a map of Brooklyn with Williamsburg highlighted.  
+> Figure 1 is a map of Brooklyn with Williamsburg highlighted.  
 
 ### HC2
 Williamsburg is neighborhood in Brooklyn with the zip codes 11211 and 11206. The population of this neighborhood is 75% white. The majority of people living in Williamsburg are 18 to 35 years old (36%) and the second highest demographic is 35 to 64 years old (31%). Most housing units are rented and only 16% is owned. The median house value is 1 million dollars.
@@ -19,15 +19,15 @@ Using pyhton, I was able to analyze the data of all the Airbnbs in NYC and creat
 
 ![plot1](plot image4.png)  
 ###### Figure 2.
-Figure 2 shows the percentage of listings that are private rooms, whole apartments, and shared rooms.
+> Figure 2 shows the percentage of listings that are private rooms, whole apartments, and shared rooms.
 
 ![plot2](plot image2.png) 
 ###### Figure 3.
-Figure 3 shows that entire homes and apartments tend to be more expensive than private rooms and shared rooms.
+> Figure 3 shows that entire homes and apartments tend to be more expensive than private rooms and shared rooms.
 
 ![plot3](plot image.png) 
 ###### Figure 4.
-Figure 4 shows the average price of listings in all of the boroughs. Brooklyn is the second most expensive.  
+> Figure 4 shows the average price of listings in all of the boroughs. Brooklyn is the second most expensive.  
 All of these data shows that Brooklyn is an expensive place to book an Airbnb yet is popular, especially Williamsburg. Most guests stay for around 6 nights at the listings and the guest leave many reviews. While some listings are not as popular as others, many recieve many guests and reviews monthly.
 
 ### HC9
