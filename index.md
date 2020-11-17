@@ -1,51 +1,34 @@
-### Williamsburg
+# Williamsburg
 
 The neighborhood that I worked on for CSCI 127 is **Williamsburg** in Brooklyn, NY. 
 
 
-## HC6
-
+### HC6
+###### Figure 1.
 ![alt text](williamsburg2.png)
+Figure 1 is a map of Brooklyn with Williamsburg highlighted.  
 
-This image is a map of Brooklyn with Williamsburg highlighted.  
+### HC2
+'''Williamsburg is neighborhood in Brooklyn with the zip codes 11211 and 11206. The population of this neighborhood is 75% white. The majority of people living in Williamsburg are 18 to 35 years old (36%) and the second highest demographic is 35 to 64 years old (31%). Most housing units are rented and only 16% is owned. The median house value is 1 million dollars.
 
-## HC2
-   Williamsburg is neighborhood in Brooklyn with the zip codes 11211 and 11206. The population of this neighborhood is 75% white. The majority of people living in Williamsburg are 18 to 35 years old (36%) and the second highest demographic is 35 to 64 years old (31%). Most housing units are rented and only 16% is owned. The median house value is 1 million dollars.
+### HC3
+'''For HC3, my partner and I analyzed the rankings from multiple websites for our neighborhoods. Williamsburg is one of the best places to live in New York City, according to Niche and other rankings. The neighborhood is good for young professionals and families due to its above average public education and the dense urban feel. Although it is not considered the safest, it has many restaurants, shops, and parks for the community. Williamsburg was rated A+ for its nightlife and is very close to the city, making it a hotspot for travelers.
 
-## HC3
-   For HC3, my partner and I analyzed the rankings from multiple websites for our neighborhoods. Williamsburg is one of the best places to live in New York City, according to Niche and other rankings. The neighborhood is good for young professionals and families due to its above average public education and the dense urban feel. Although it is not considered the safest, it has many restaurants, shops, and parks for the community. Williamsburg was rated A+ for its nightlife and is very close to the city, making it a hotspot for travelers.
+### HC7+8
+'''Using pyhton, I was able to analyze the data of all the Airbnbs in NYC and create plots about it. There is a total of 20,104 Airbnbs listings in Brooklyn. There is a total of 3,920 Airbnb listings in Williamsburg. 19.5% of total listings in Brooklyn are listings in Williamsburg. The average price of listings in Williamsburg is $143.80. The average minimum number of nights is 6 nights. The average number of reviews is 21.79 reviews and the maximum is 404 reviews.
+###### Figure 2.
+![alt text](plot image4.png)
+Figure 2 shows the percentage of listings that are private rooms, whole apartments, and shared rooms.
+###### Figure 3.
+![alt text](plot image.png)
+Figure 3 shows that entire homes and apartments tend to be more expensive than private rooms and shared rooms.
+###### Figure 4.
+![alt text](plot image3.png)
+Figure 4 shows the average price of listings in all of the boroughs. Brooklyn is the second most expensive.  
+All of these data shows that Brooklyn is an expensive place to book an Airbnb yet is popular, especially Williamsburg. Most guests stay for around 6 nights at the listings and the guest leave many reviews. While some listings are not as popular as others, many recieve many guests and reviews monthly.
 
-## HC7+8
-
-## HC9
+### HC9
 <dl>
 <iframe src="AirbnbWilliamsburg.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </dl>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jmzion/HC8/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
