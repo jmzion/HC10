@@ -3,9 +3,10 @@
 The neighborhood that I worked on for CSCI 127 is **Williamsburg** in Brooklyn, NY. 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### HC2
+### HC6
 
-![HC2][williamsburg2.png]
+![HC6][williamsburg2.png]
+This image is a map of Brooklyn with Williamsburg highlighted.
 
 <dl>
 <iframe src="AirbnbWilliamsburg.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
