@@ -3,7 +3,6 @@
 The neighborhood that I worked on for CSCI 127 is **Williamsburg** in Brooklyn, NY. 
 
 
-### HC6
 ![alt text](williamsburg2.png)
 ###### Figure 1.
 > Figure 1 is a map of Brooklyn with Williamsburg highlighted.  
